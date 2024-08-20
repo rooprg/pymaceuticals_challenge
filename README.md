@@ -81,8 +81,6 @@ The following were generated and will be described further below-
 ![Linear Regression model and Correlation Coefficient](Output/correlation.png)
 
 
-
-
 Overall, Capomulin has promising results, with Ramicane falling short of Capomulin results but ahead of other drug products for which data was supplied. More data would be helpful at elucidating some of these early high level summary points:
 
 Capomulin and Ramicane have more oberserved timepoints than other treatments. Exploring whether this relates to mice being able to tolerate these treatments better and thus, more time on regimen and/or any early in treatment mortality data by regimen could guide next steps in drug development
@@ -95,13 +93,16 @@ The correlation between mouse weight and the average tumor volume in the Capomul
 **(6) Ethical Considerations:**
 
 
-(Discuss any ethical considerations taken into account during the project, such as data privacy, bias, or fairness)
+Animal study data might be sensitive in terms of competitive intelligence between pharmaceutical companies, but this data does not include human subject identifiers and data. The Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule is not relevant for these dataset; results; etc.
 
 
 **(7) Instructions for Interacting with the Project:**
 
+Python code is available in the Main folder via a file named "pymaceuticals_final-roop.ipynb".
 
-(Provide clear instructions on how to interact with the visualizations, such as how to run the code or access the visualizations)
+Datasets are filed in the **data** folder as noted above.
+
+Visualizations are filed in the **Output** folder.
 
 
 **(8) Citations:**
