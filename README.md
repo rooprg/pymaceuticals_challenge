@@ -46,9 +46,42 @@ The following were generated and will be described further below-
 **(5) Results and Analysis:**
 
 
-(a)
+(a) Summary Statistics by Drug Regimen-
 
 ![Summary Statistics](Output/summary_statistics.png)
+
+
+(b) Total number of Observed Mouse Timepoints for each Drug Regimen-
+
+![Total number of Observed Mouse Timepoints for each Drug Regimen](Output/timepoints_vs_regimen.png)
+
+
+(c) Distribution of female versus male mice-
+
+![Distribution of female versus male mice](Output/gender_distribution.png)
+
+
+(d) Final Tumor Volume versus Drug Regimen-
+
+![Final Tumor Volume versus Drug Regimen](Output/tumor_volume_vs_regimen.png)
+
+
+(e) Tumor Volume versus Timepoint on Capomulin [Mouse r554]-
+
+![Tumor Volume versus Timepoint on Capomulin - Mouse r554](Output/tumor_volume_vs_capomulin_r554.png)
+
+
+(f) Tumor Volume versus Weight for Capomulin-
+
+![Tumor Volume versus Weight for Capomulin](Output/tumor_volume_vs_weight.png)
+
+
+(g) Linear Regression model and Correlation Coefficient-
+
+![Linear Regression model and Correlation Coefficient](Output/correlation.png)
+
+
+
 
 Overall, Capomulin has promising results, with Ramicane falling short of Capomulin results but ahead of other drug products for which data was supplied. More data would be helpful at elucidating some of these early high level summary points:
 
