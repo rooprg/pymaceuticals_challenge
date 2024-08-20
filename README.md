@@ -48,7 +48,7 @@ The following were generated and will be described further below-
 
 (a)
 
-![Summary Statistics](Output/summary_statistics.png]
+![Summary Statistics](Output/summary_statistics.png)
 
 Overall, Capomulin has promising results, with Ramicane falling short of Capomulin results but ahead of other drug products for which data was supplied. More data would be helpful at elucidating some of these early high level summary points:
 
