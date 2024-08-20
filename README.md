@@ -46,7 +46,17 @@ The following were generated and will be described further below-
 **(5) Results and Analysis:**
 
 
-(Present the insights gained from the data visualization. Describe any patterns, trends, or relationships discovered in the data)
+(a)
+
+![Summary Statistics](Output/summary_statistics.png]
+
+Overall, Capomulin has promising results, with Ramicane falling short of Capomulin results but ahead of other drug products for which data was supplied. More data would be helpful at elucidating some of these early high level summary points:
+
+Capomulin and Ramicane have more oberserved timepoints than other treatments. Exploring whether this relates to mice being able to tolerate these treatments better and thus, more time on regimen and/or any early in treatment mortality data by regimen could guide next steps in drug development
+
+Capomulin and Ramicane have lower final tumor volumes as compared to at least two other regimens, which could be indicative of partial response to drug. Further data could drive finalization of critical drug decisions, such as duration of treatment; optimal dose; formulation; etc.
+
+The correlation between mouse weight and the average tumor volume in the Capomulin group is fairly strong, but exploring other factors, like gender or any genetic variables, would provide more insight for Capomulin treatment.
 
 
 **(6) Ethical Considerations:**
